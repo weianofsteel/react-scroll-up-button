@@ -1,11 +1,19 @@
 {
     "name": "ScrollUpButton",
     "version": "0.5.4",
-    "description": "",
+    "description": "A simple scroll up button built with react",
     "main": "./lib/ScrollUpButton.js",
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/weianofsteel/react-scroll-up-button"
+    },
     "license": "MIT",
     "scripts": {
         "build": "webpack"
+    },
+    "author": "Weian Wang",
+    "bugs": {
+        "url": "https://github.com/weianofsteel/react-scroll-up-button"
     },
     "peerDependencies": {
         "prop-types": "^15.6.0",
