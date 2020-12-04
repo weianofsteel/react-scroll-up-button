@@ -1,5 +1,5 @@
 {
-    "name": "react-scroll-up-button",
+    "name": "react-scroll-up-btn",
     "version": "1.0.0",
     "description": "A simple scroll up button built with react",
     "main": "./lib/ScrollUpButton.js",
