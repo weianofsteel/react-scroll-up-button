@@ -1,6 +1,6 @@
 {
     "name": "react-scroll-up-btn",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A simple scroll up button built with react",
     "main": "./lib/ScrollUpButton.js",
     "repository": {
